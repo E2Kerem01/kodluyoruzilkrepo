@@ -1,7 +1,7 @@
 
 # Kodluyoruz Ilk Repo
 
-#Patika Profil Linkim[Patika Profil](https://app.patika.dev/e2kerem01)
+#Patika Profil Linkim [Patika Profil](https://app.patika.dev/e2kerem01)
 ​
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
