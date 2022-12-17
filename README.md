@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Eğitiminde oluşturduğumu
 
 ​
 
-![github](figures/github.png)
+![github](figures/github.PNG)
 
 ​
 
